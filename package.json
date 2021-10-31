@@ -1,0 +1,11 @@
+{
+  "name": "webinar-front-static",
+  "version": "1.0.0",
+  "description": "webinar template 2 static",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
